@@ -1,0 +1,31 @@
+.btnGroup {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.update {
+    width: 84px;
+    height: 30px;
+    background: #007BFF;
+    border-radius: 4px;
+    margin-left: 15px;
+    padding: 8px 10px;
+    border:  #007BFF;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+.cancel {
+    width: 70px;
+    height: 30px;
+    border: 1px solid #2E3338;
+    border-radius: 4px;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    background: #FFFFFF;
+}
